@@ -1,5 +1,3 @@
-
-````markdown
 # LiP-LLM: Large Language Models for Logical Plan Generation and Multi-Robot Task Allocation
 
 ## Project Overview
@@ -10,9 +8,9 @@ This project implements the core concepts of the "LiP-LLM" paper, demonstrating 
 
 ## Visual Demonstration
 
-The image below illustrates the high-level process:
-![LiP-LLM Overview](assets\plot.png)
-*(Note: The `visual_demonstration.png` image should be replaced with the actual image you generated and hosted, or placed in an `images` folder within your repo and linked accordingly.)*
+This image represent what we have tried to implement 
+
+![LiP-LLM Overview](assets/plot.png)
 
 ---
 
@@ -153,15 +151,4 @@ Feel free to fork this repository, open issues, and submit pull requests. Any co
 
 -----
 
-## License
 
-This project is open-source. Please refer to the `LICENSE` file for more details. (You might want to add a `LICENSE` file, e.g., MIT License).
-
-```
-
----
-
-You now have a complete `README.md` that explains your project clearly, provides setup instructions, and highlights its key features\!
-
-One final detail: If you want the image link in the `README.md` to work, you'll need to upload the generated image (the one I created earlier) to a place where it's publicly accessible (like GitHub's image hosting in your repo, or an image hosting service) and then update the URL in the `README.md` file.
-```
