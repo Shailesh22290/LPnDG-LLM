@@ -1,0 +1,5 @@
+google-generativeai 
+numpy               # For numerical operations (calculating probabilities)
+python-dotenv       # To load the API key from our .env file
+networkx            # For creating and managing the dependency graph (Step 2)
+scipy               # For the linear programming solver (Step 3)
