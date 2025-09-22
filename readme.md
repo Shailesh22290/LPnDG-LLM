@@ -144,6 +144,10 @@ lip_llm_project/
   * **Error Handling**: Robust error recovery mechanisms for failed tasks or LLM responses.
 
 -----
+## References
+This implementation is based on the paper:
+
+Integrating Linear Programming and Dependency Graphs with LLMs for Multi-Robot Task Planning
 
 ## Contributing
 
